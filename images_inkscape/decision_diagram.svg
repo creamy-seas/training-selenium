@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg848"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="decision_diagram.svg">
+  <defs
+     id="defs842" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6"
+     inkscape:cx="583.33333"
+     inkscape:cy="600"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="1033"
+     inkscape:window-y="1081"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.95999995;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96078431;paint-order:stroke fill markers"
+       id="path812"
+       sodipodi:type="arc"
+       sodipodi:cx="89.517365"
+       sodipodi:cy="82.246529"
+       sodipodi:rx="44.979168"
+       sodipodi:ry="44.979168"
+       sodipodi:start="1.5944403"
+       sodipodi:end="1.5931278"
+       sodipodi:open="true"
+       d="M 88.453977,127.21312 A 44.979168,44.979168 0 0 1 44.550422,81.197896 44.979168,44.979168 0 0 1 90.551242,37.279244 44.979168,44.979168 0 0 1 134.48499,83.265651 44.979168,44.979168 0 0 1 88.512997,127.21448" />
+  </g>
+</svg>
